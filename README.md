@@ -23,9 +23,6 @@ O objetivo deste projeto é explorar e analisar os microdados do ENEM 2019, busc
 .
 ├── data/
 │   └── enem2019.parquet
-│
-├── img/
-│
 ├── analiseEnem.ipynb
 ├── dicionario_dados.ipynb
 └── README.md
